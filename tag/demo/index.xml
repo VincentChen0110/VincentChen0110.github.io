@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Demo | Vincent Chen</title>
+    <link>https://vincent0110.netlify.app/tag/demo/</link>
+      <atom:link href="https://vincent0110.netlify.app/tag/demo/index.xml" rel="self" type="application/rss+xml" />
+    <description>Demo</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 25 Dec 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://vincent0110.netlify.app/media/icon_hu756ae419dca872ecfcac293f58082c63_40573_512x512_fill_lanczos_center_3.png</url>
+      <title>Demo</title>
+      <link>https://vincent0110.netlify.app/tag/demo/</link>
+    </image>
+    
+    <item>
+      <title>Bungee Jumping Simulator</title>
+      <link>https://vincent0110.netlify.app/project/bungee/</link>
+      <pubDate>Tue, 25 Dec 2018 00:00:00 +0000</pubDate>
+      <guid>https://vincent0110.netlify.app/project/bungee/</guid>
+      <description>&lt;p&gt;Bungee jumping is an extreme sport that many people love. However, there are potential risks that needs your attention! Using the wrong cords with hazardous elastic coefficeints, or jumping from heights that aren&amp;rsquo;t suitable are vital!! Hence, I created a bungee jumping simulator with Matlab. This simulator can animate the fall of your bungee jumping to check if the inputted elastic coeffients and height is appropriate. Also, it can calculate the gravitational force that you will encounter!&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
