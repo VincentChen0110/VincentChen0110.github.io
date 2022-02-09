@@ -33,6 +33,27 @@
     </item>
     
     <item>
+      <title>Associated Learning: A Methodology to Decompose End-to-End Backpropagation on CNN, RNN and Transformer</title>
+      <link>https://vincent0110.netlify.app/publication/associated_learning/</link>
+      <pubDate>Fri, 28 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://vincent0110.netlify.app/publication/associated_learning/</guid>
+      <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+ --&gt;
+&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+ --&gt;
+&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Food Image to Recipe Generator</title>
       <link>https://vincent0110.netlify.app/project/recipe_generator/</link>
       <pubDate>Sun, 27 Dec 2020 00:00:00 +0000</pubDate>
@@ -262,25 +283,6 @@ $$&lt;/p&gt;
       <pubDate>Tue, 25 Dec 2018 00:00:00 +0000</pubDate>
       <guid>https://vincent0110.netlify.app/project/fake_news/</guid>
       <description>&lt;p&gt;Fake News has been more and more common throughout news media in nowadays. What can you do to discriminate true and fake news? Here, I conducted analysis between true and fake news using the Kaggle Fake News Dataset. I experimented using Latent Dirchlet Allocation(LDA) to detect news topics to see if fake news is biased towards which. However, using LDA document topic vectors did not achieve good accuracies in discriminating fake news. Deep learning methods including using pre-trained word embeddings and SOTA language models are still proven most effective!&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Associated Learning: A Methodology to Decompose End-to-End Backpropagation on CNN, RNN and Transformer</title>
-      <link>https://vincent0110.netlify.app/publication/example/</link>
-      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
-      <guid>https://vincent0110.netlify.app/publication/example/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
